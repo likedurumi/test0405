@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/makeProfile"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "makeProfile"
+	}
+}
